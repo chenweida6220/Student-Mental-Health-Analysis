@@ -62,7 +62,7 @@ gender – Gender identity (categorical)
 * Excel
 
 ## Featured Deliverables
-* [AOT Student Mental Health Analysis Presentation](https://public.tableau.com/app/profile/wei.da.chen/viz/NetflixMoviesTVShowsTill2021/Netflix)
+* [AOT Student Mental Health Analysis Presentation](./Student%20Mental%20Health%20Analysis/Student%20Mental%20Health%20Analysis%20Presentation.pdf)
 * [Final Project Codefile](./Student%20Mental%20Health%20Analysis/student%20mental%20health%20analysis.ipynb)
 
 ## Getting Started
