@@ -12,7 +12,6 @@ This project represents a complete end-to-end application of machine learning pr
 
 ## Objectives
 - [x] Explore demographic distributions (gender, age, major, class status) in the student population.
-- [x] Explore demographic distributions (gender, age, major, class status) in the student population.
 - [x] Investigate relationships between academic performance (GPA) and mental health indicators.
 - [x] Examine treatment-seeking behavior patterns and barriers.
 - [x] Build and evaluate a predictive model for depression risk using student attributes.
